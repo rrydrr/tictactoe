@@ -4,3 +4,4 @@ ini adalah aplikasi tic tac toe yang dibuat menggunakan bahasa golang. sistem ya
 
 1304211040
 Muhammad Rizqi Rasyid Mochsyah
+Telkom University
